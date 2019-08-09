@@ -69,7 +69,6 @@ C:\Users\jaydeep.hasmukhlal\Desktop\JayProject\Vidly\bin\System.Web.WebPages.Raz
 C:\Users\jaydeep.hasmukhlal\Desktop\JayProject\Vidly\bin\Newtonsoft.Json.xml
 C:\Users\jaydeep.hasmukhlal\Desktop\JayProject\Vidly\bin\Antlr3.Runtime.pdb
 C:\Users\jaydeep.hasmukhlal\Desktop\JayProject\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\jaydeep.hasmukhlal\Desktop\JayProject\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 C:\Users\jaydeep.hasmukhlal\Desktop\JayProject\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 C:\Users\jaydeep.hasmukhlal\Desktop\JayProject\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\jaydeep.hasmukhlal\Desktop\JayProject\Vidly\obj\Debug\Vidly.dll

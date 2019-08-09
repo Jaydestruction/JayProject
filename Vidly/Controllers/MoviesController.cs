@@ -7,6 +7,8 @@ using Vidly.Models;
 using Vidly.ViewModels;
 
 namespace Vidly.Controllers
+
+    
 {
     public class MoviesController : Controller
     {
@@ -32,8 +34,7 @@ namespace Vidly.Controllers
                 Customers = customers
             };
 
-
-
+           
             return View(viewModel);
             //return RedirectToAction("Index", "Home", new { page = 1, sortby = "name" });
 
