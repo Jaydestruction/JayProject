@@ -73,4 +73,3 @@ C:\Users\jaydeep.hasmukhlal\Desktop\JayProject\Vidly\obj\Debug\Vidly.csproj.Core
 C:\Users\jaydeep.hasmukhlal\Desktop\JayProject\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\jaydeep.hasmukhlal\Desktop\JayProject\Vidly\obj\Debug\Vidly.dll
 C:\Users\jaydeep.hasmukhlal\Desktop\JayProject\Vidly\obj\Debug\Vidly.pdb
-C:\Users\jaydeep.hasmukhlal\Desktop\JayProject\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
