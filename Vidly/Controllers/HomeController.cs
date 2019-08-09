@@ -20,7 +20,7 @@ namespace Vidly.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Customers()
         {
             ViewBag.Message = "Your contact page.";
 
